@@ -1,0 +1,308 @@
+{
+  "desktop": [
+    {
+      "module": "Papan kamar",
+      "title": "Papan kamar"
+    },
+    {
+      "module": "Reservasi",
+      "title": "Reservasi"
+    },
+    {
+      "module": "Kalender kamar",
+      "title": "Kalender kamar"
+    },
+    {
+      "module": "Housekeeping",
+      "title": "Housekeeping"
+    },
+    {
+      "module": "Restoran & pesanan",
+      "title": "Restoran & pesanan"
+    },
+    {
+      "module": "POS restoran",
+      "title": "POS restoran"
+    },
+    {
+      "module": "Breakfast",
+      "title": "Breakfast"
+    },
+    {
+      "module": "Karyawan",
+      "title": "Karyawan"
+    },
+    {
+      "module": "Jadwal shift",
+      "title": "Jadwal shift"
+    },
+    {
+      "module": "Absensi",
+      "title": "Absensi & kehadiran"
+    },
+    {
+      "module": "Pengeluaran",
+      "title": "Pengeluaran"
+    },
+    {
+      "module": "Persediaan",
+      "title": "Linen & amenities"
+    },
+    {
+      "module": "Pemeliharaan",
+      "title": "Pemeliharaan"
+    },
+    {
+      "module": "Laporan & kas",
+      "title": "Laporan, jurnal & kas"
+    },
+    {
+      "module": "Distribusi & OTA",
+      "title": "Distribusi & OTA"
+    },
+    {
+      "module": "Pengguna & hak akses",
+      "title": "Pengguna & hak akses"
+    },
+    {
+      "module": "Peran & izin",
+      "title": "Peran & izin"
+    },
+    {
+      "module": "Pengaturan hotel",
+      "title": "Pengaturan hotel"
+    },
+    {
+      "module": "Booking langsung",
+      "title": "Booking langsung"
+    },
+    {
+      "module": "Riwayat aktivitas",
+      "title": "Riwayat aktivitas"
+    }
+  ],
+  "mobile320": [
+    {
+      "module": "Papan kamar",
+      "scroll": 305,
+      "selectsWithoutSearch": 0,
+      "width": 305
+    },
+    {
+      "module": "Reservasi",
+      "scroll": 305,
+      "selectsWithoutSearch": 0,
+      "width": 305
+    },
+    {
+      "module": "Kalender kamar",
+      "scroll": 305,
+      "selectsWithoutSearch": 0,
+      "width": 305
+    },
+    {
+      "module": "Housekeeping",
+      "scroll": 305,
+      "selectsWithoutSearch": 0,
+      "width": 305
+    },
+    {
+      "module": "Restoran & pesanan",
+      "scroll": 305,
+      "selectsWithoutSearch": 0,
+      "width": 305
+    },
+    {
+      "module": "POS restoran",
+      "scroll": 305,
+      "selectsWithoutSearch": 0,
+      "width": 305
+    },
+    {
+      "module": "Breakfast",
+      "scroll": 305,
+      "selectsWithoutSearch": 0,
+      "width": 305
+    },
+    {
+      "module": "Karyawan",
+      "scroll": 305,
+      "selectsWithoutSearch": 0,
+      "width": 305
+    },
+    {
+      "module": "Jadwal shift",
+      "scroll": 305,
+      "selectsWithoutSearch": 0,
+      "width": 305
+    },
+    {
+      "module": "Absensi",
+      "scroll": 305,
+      "selectsWithoutSearch": 0,
+      "width": 305
+    },
+    {
+      "module": "Pengeluaran",
+      "scroll": 305,
+      "selectsWithoutSearch": 0,
+      "width": 305
+    },
+    {
+      "module": "Persediaan",
+      "scroll": 305,
+      "selectsWithoutSearch": 0,
+      "width": 305
+    },
+    {
+      "module": "Pemeliharaan",
+      "scroll": 305,
+      "selectsWithoutSearch": 0,
+      "width": 305
+    },
+    {
+      "module": "Laporan & kas",
+      "scroll": 305,
+      "selectsWithoutSearch": 0,
+      "width": 305
+    },
+    {
+      "module": "Distribusi & OTA",
+      "scroll": 305,
+      "selectsWithoutSearch": 0,
+      "width": 305
+    },
+    {
+      "module": "Pengguna & hak akses",
+      "scroll": 305,
+      "selectsWithoutSearch": 0,
+      "width": 305
+    },
+    {
+      "module": "Peran & izin",
+      "scroll": 305,
+      "selectsWithoutSearch": 0,
+      "width": 305
+    },
+    {
+      "module": "Pengaturan hotel",
+      "scroll": 305,
+      "selectsWithoutSearch": 0,
+      "width": 305
+    },
+    {
+      "module": "Booking langsung",
+      "scroll": 305,
+      "selectsWithoutSearch": 0,
+      "width": 305
+    },
+    {
+      "module": "Riwayat aktivitas",
+      "scroll": 305,
+      "selectsWithoutSearch": 0,
+      "width": 305
+    }
+  ],
+  "tablet768": [
+    {
+      "module": "Papan kamar",
+      "scroll": 753,
+      "width": 753
+    },
+    {
+      "module": "Reservasi",
+      "scroll": 753,
+      "width": 753
+    },
+    {
+      "module": "Kalender kamar",
+      "scroll": 753,
+      "width": 753
+    },
+    {
+      "module": "Housekeeping",
+      "scroll": 753,
+      "width": 753
+    },
+    {
+      "module": "Restoran & pesanan",
+      "scroll": 753,
+      "width": 753
+    },
+    {
+      "module": "POS restoran",
+      "scroll": 753,
+      "width": 753
+    },
+    {
+      "module": "Breakfast",
+      "scroll": 753,
+      "width": 753
+    },
+    {
+      "module": "Karyawan",
+      "scroll": 768,
+      "width": 768
+    },
+    {
+      "module": "Jadwal shift",
+      "scroll": 768,
+      "width": 768
+    },
+    {
+      "module": "Absensi",
+      "scroll": 753,
+      "width": 753
+    },
+    {
+      "module": "Pengeluaran",
+      "scroll": 768,
+      "width": 768
+    },
+    {
+      "module": "Persediaan",
+      "scroll": 768,
+      "width": 768
+    },
+    {
+      "module": "Pemeliharaan",
+      "scroll": 768,
+      "width": 768
+    },
+    {
+      "module": "Laporan & kas",
+      "scroll": 753,
+      "width": 753
+    },
+    {
+      "module": "Distribusi & OTA",
+      "scroll": 753,
+      "width": 753
+    },
+    {
+      "module": "Pengguna & hak akses",
+      "scroll": 768,
+      "width": 768
+    },
+    {
+      "module": "Peran & izin",
+      "scroll": 768,
+      "width": 768
+    },
+    {
+      "module": "Pengaturan hotel",
+      "scroll": 768,
+      "width": 768
+    },
+    {
+      "module": "Booking langsung",
+      "scroll": 768,
+      "width": 768
+    },
+    {
+      "module": "Riwayat aktivitas",
+      "scroll": 753,
+      "width": 753
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+@extends('saas.layout')
+@section('title','Tagihan langganan')
+@section('content')
+<section class="panel saas-narrow"><p class="eyebrow">Langganan layanan manajemen hotel</p><h1>{{ $invoice->code }}</h1><p>{{ $hotel->name }} @if($hotel->is_demo) · Data contoh @endif</p><dl class="detail-grid"><div><dt>Paket</dt><dd>{{ $invoice->plan_name }}</dd></div><div><dt>Periode</dt><dd>{{ $invoice->months }} bulan</dd></div><div><dt>Total</dt><dd>Rp {{ number_format($invoice->amount,0,',','.') }}</dd></div><div><dt>Status</dt><dd>{{ ['unpaid'=>'Belum dibayar','paid'=>'Lunas','void'=>'Dibatalkan'][$invoice->status] }}</dd></div></dl><p class="saas-preline">{{ $settings->payment_instructions }}</p><p>{{ $settings->support_contact }}</p><p class="table-note">Tagihan operasional layanan SaaS, bukan faktur pajak. Tidak ada pembayaran gateway yang diproses pada halaman ini.</p><div class="actions"><a class="button-link secondary" href="{{ request()->is('saas/*')?'/saas':'/subscription' }}">Kembali</a><button type="button" class="primary" data-print>Cetak / simpan PDF</button></div></section>
+@endsection
